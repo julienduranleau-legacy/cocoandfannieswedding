@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'bariolregular_bold';
+    src: url("bariol-bold.eot");
+    src: url("bariol-bold.eot?#iefix") format("embedded-opentype"), url("bariol-bold.woff2") format("woff2"), url("bariol-bold.woff") format("woff"), url("bariol-bold.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal
+}

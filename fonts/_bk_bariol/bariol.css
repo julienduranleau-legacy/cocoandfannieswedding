@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'bariol-web';
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular.eot");
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular.eot?#iefix") format("embedded-opentype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular.woff2") format("woff2"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular.woff") format("woff"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular.ttf") format("truetype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular.svg#bariolregular") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+@font-face {
+    font-family: 'bariol-bold';
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-bold.eot");
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-bold.eot?#iefix") format("embedded-opentype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-bold.woff2") format("woff2"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-bold.woff") format("woff"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-bold.ttf") format("truetype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-bold.svg#bariolbold") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+@font-face {
+    font-family: 'bariol-web';
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-light.eot");
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-light.eot?#iefix") format("embedded-opentype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-light.woff2") format("woff2"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-light.woff") format("woff"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-light.ttf") format("truetype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol-light.svg#bariollight") format("svg");
+    font-weight: 100;
+    font-style: normal
+}
+@font-face {
+    font-family: 'bariol-web';
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular_italic.eot");
+    src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular_italic.eot?#iefix") format("embedded-opentype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular_italic.woff2") format("woff2"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular_italic.woff") format("woff"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular_italic.ttf") format("truetype"), url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular_italic.svg#bariolregular_italic") format("svg");
+    font-weight: normal;
+    font-style: italic
+}
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: 'bariol-web';
+        src: url("//static.cleverbridge.com/corporatecdn/www/themes/fonts/bariol_regular.svg#bariol_regular") format("svg");
+        font-weight: normal
+    }
+}

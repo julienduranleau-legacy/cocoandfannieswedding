@@ -1,0 +1,64 @@
+/*
+font-family: 'bariol_regularregular';
+font-family: 'bariolregular_light';
+font-family: 'bariolregular_bold';
+*/
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-size: $remSize;
+    height: 100%;
+}
+
+body {
+    color: $blackText;
+    min-width: 1200px;
+}
+
+body, input, textarea {
+    font-family: 'bariol_regularregular';
+    -webkit-font-smoothing: antialiased;
+}
+
+.centered-container {
+    position: relative;
+    width: 1200px;
+    margin: 0px auto;
+    padding: 0px 30px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: $blackText;
+
+    &:hover {
+        
+    }
+}
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.group::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+h1 {
+    line-height: 1.7em;
+}
+
+.bt {
+    cursor: pointer;
+    transition: opacity 0.2s ease-in-out;
+}
+.bt:hover {
+    opacity: 0.75;
+}

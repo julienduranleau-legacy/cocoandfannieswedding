@@ -1,0 +1,35 @@
+// ====================================================================================
+//                                 BOOTSTRAP
+// ====================================================================================
+$grid-breakpoints: (
+  xs: 0,     // Extra small screen / phone
+  sm: 768px, // Small screen / phone
+  md: 992px, // Medium screen / tablet
+  lg: 1200px // Large screen / desktop
+  //xl: 1200px // Extra large screen / wide desktop
+);
+$breakpoints: $grid-breakpoints; // used by include-media
+$grid-columns:      12;
+$grid-gutter-width: 1.875rem;
+
+
+// ====================================================================================
+//                                   CUSTOM
+// ====================================================================================
+
+$remSize: 16px;
+
+$headerHeight: 95px;
+
+$blackText: #0c5155;
+$green: #05c077;
+$lightGreen: #e6f9f1;
+$redTarget: #da2033;
+
+$styleColor1: #caf4f1;
+$styleColor2: #9be0db;
+$styleColor3: #86d7b7;
+$styleColor4: #05c077;
+$styleColor5: #CCC;
+
+$boxShadow: 0px 0px 43px 10px rgba(12, 81, 85, 0.1);
